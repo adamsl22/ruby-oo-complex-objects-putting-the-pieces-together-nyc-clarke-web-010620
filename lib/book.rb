@@ -21,6 +21,6 @@ class Book
     @genre = genre
   end
   def genre
-    @page_count
+    @genre
   end
 end
