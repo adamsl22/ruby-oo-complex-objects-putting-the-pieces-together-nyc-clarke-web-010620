@@ -1,6 +1,6 @@
 # Make your shoe class here!
 class Shoe
-  def initialize(type)
-    @type = type
+  def initialize(brand)
+    @brand = brand
   end
 end
